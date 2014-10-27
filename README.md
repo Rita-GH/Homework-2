@@ -1,5 +1,5 @@
 1. База має називатися homework_db.
-*2. Віртуальний хост має називатися http://homework.local (Покищо на localhost)
+*2. Віртуальний хост має називатися http://homework.local (localhost/homework.local)
 3. Папки з малюнками в файл .gitignore не додавати.
 4. Доступ в адмінку Wordpress має бути 
 
